@@ -148,19 +148,24 @@ The application is deployed using AWS services:
 Add screenshots of your completed project here.
 
 ### Application Interface
-![Application Screenshot](screenshots/application.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e408bcfb-1d52-4faa-8c8e-fb82fce0d7e4" />
+
 
 ### Amazon S3
-![S3 Screenshot](screenshots/s3-bucket.png)
+<img width="953" height="901" alt="Screenshot 2026-10-30 121354" src="https://github.com/user-attachments/assets/eb2bb67b-71be-49d6-babc-82d347e76f02" />
+
 
 ### CloudFront Distribution
-![CloudFront Screenshot](screenshots/cloudfront.png)
+<img width="1148" height="716" alt="Screenshot 2026-10-30 123724" src="https://github.com/user-attachments/assets/56e4eba2-6a2a-428e-b234-9b02969cb739" />
+
 
 ### API Gateway
-![API Gateway Screenshot](screenshots/api-gateway.png)
+<img width="972" height="907" alt="Screenshot 2026-10-30 145112" src="https://github.com/user-attachments/assets/55c1c69b-f418-4a24-8606-75395a8922e0" />
+
 
 ### AWS Lambda
-![Lambda Screenshot](screenshots/lambda.png)
+<img width="1917" height="927" alt="Screenshot 2026-10-30 141138" src="https://github.com/user-attachments/assets/6558113f-89c8-4ca6-8ac4-9a1370f9ebd4" />
+
 
 ## 🎯 Key Learnings
 
