@@ -9,6 +9,8 @@ This project demonstrates how to build and deploy a scalable, highly available, 
 The frontend is hosted on Amazon S3 and delivered through Amazon CloudFront, while the backend is powered by AWS Lambda and Amazon API Gateway.
 
 ## 🏗️ Architecture
+<img width="1536" height="1024" alt="AWS Serverless Web Architecture Diagram" src="https://github.com/user-attachments/assets/1f5625e2-37df-4765-94ee-70a047e27495" />
+
 
 **AWS Architecture Components:**
 
